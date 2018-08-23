@@ -4,7 +4,7 @@
 
 Video <br>
 https://www.recallact.com/presentation/jdk-tools-secret-weapons-jvm
-
+<br><br>
 
 ## DevNexus 2018: GraphQL and REST: Frenemies Forever
 
