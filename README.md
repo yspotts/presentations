@@ -15,7 +15,7 @@ https://www.recallact.com/presentation/jdk-tools-secret-weapons-jvm
 
 Slidedeck <br>
 https://www.slideshare.net/cyspotts/graphql-and-rest-frenemies-forever-devnexus-2018
-
+<br><br>
 
 ## AJUG August 2018: AWS API Gateway
 Video <br>
