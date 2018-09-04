@@ -20,6 +20,6 @@ https://www.slideshare.net/cyspotts/graphql-and-rest-frenemies-forever-devnexus-
 ## AJUG August 2018: AWS API Gateway
 Video <br>
 https://www.recallact.com/presentation/aws-api-gateway-api-management-aws-ecosystem
-Slideck<br>
+<br>Slideck<br>
 https://www.slideshare.net/cyspotts/aws-api-gateway-ajug-august-2018
 <br><br>
