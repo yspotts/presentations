@@ -23,3 +23,11 @@ https://www.recallact.com/presentation/aws-api-gateway-api-management-aws-ecosys
 <br>Slidedeck<br>
 https://www.slideshare.net/cyspotts/aws-api-gateway-ajug-august-2018
 <br><br>
+
+## DevNexus 2019: GraphQL From Beginner to Expert in 60 minutes
+Slidedeck<br>
+https://www.slideshare.net/cyspotts/devnexus-2019-graphql-from-beginner-to-expert-in-60-minutes
+<br>Code<br>
+https://github.com/yspotts/dev-nexus-2019-graphql
+<br><br>
+
