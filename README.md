@@ -33,3 +33,8 @@ https://www.slideshare.net/cyspotts/devnexus-2019-graphql-from-beginner-to-exper
 https://github.com/yspotts/dev-nexus-2019-graphql
 <br><br>
 
+## DevNexus 2020: Authorization, Access Control and Microservices
+Slidedeck<br>
+https://www.slideshare.net/cyspotts/devnexus-2020-authorization-access-control-and-microservices
+<br><br>
+
