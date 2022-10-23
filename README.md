@@ -38,3 +38,7 @@ Slidedeck<br>
 https://www.slideshare.net/cyspotts/devnexus-2020-authorization-access-control-and-microservices
 <br><br>
 
+## Devnexus 2022: Building a Distributed Datastore in 8 weeks
+Slidedeck<br>
+https://www.slideshare.net/cyspotts/devnexus-2022-building-a-distributed-datastore-in-8-weeks
+<br><br>
